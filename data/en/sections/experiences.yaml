@@ -11,29 +11,22 @@ section:
 # Your experiences
 experiences:
 - company: 
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Ford Motor Company
+    url: "https://corporate.ford.com/"
+    location: Dearborn, MI
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Ford Motor Company is an American multinational automobile manufacturer headquartered in Dearborn, Michigan, United States. It was founded by Henry Ford and incorporated on June 16, 1903. The company sells automobiles and commercial vehicles under the Ford brand, and luxury cars under its Lincoln luxury brand.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Ergonomic Engineer
+    start: May 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Lead Ergonomic Manufacturing Engineer for the 2022 Ford Bronco Raptor
+    - Manage and support implementation of efficient manufacturing strategies while addressing challenges in real time.
+    - Designing and balancing both new and existing assembly jobs using industry standard time studies.
+    - Utilizing Lean Manufacturing Principles to develop efficient cycle line layouts and work cells for new assembly processes.
 
 - company:
     name: Mitacs
@@ -49,16 +42,16 @@ experiences:
     - Analyzed kinematic motion of a diverse range of individuals to create predictive models for digital human modeling software
     - Collaborated with major automotive industry partners such as Ford, General Motors and Stellantis (formerly Fiat Chrysler Automotive).
 
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+# - company:
+#     name: Intern Counting Company (ICC).
+#     url: "https://www.example.com"
+#     location: Intern Land
+#     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+#   positions:
+#   - designation: Intern
+#     start: Jun 2015
+#     end: Jan 2016
+#     responsibilities:
+#     - Count lost of interns.
+#     - Count more interns.
+#     - Count me as an intern.
