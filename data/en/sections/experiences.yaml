@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Experience
   id: experiences
   enable: true
   weight: 3
@@ -10,7 +10,7 @@ section:
 
 # Your experiences
 experiences:
-- company:
+- company: 
     name: Example Co.
     url: "https://www.example.com"
     location: Dhaka Branch
@@ -36,18 +36,18 @@ experiences:
     - Learn k,d,w technology for xyz.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Mitacs
+    url: "https://www.mitacs.ca/en"
+    location: Windsor, ON
+    overview: Mitacs is a nonprofit national research organization that builds partnerships between academia, industry, and the world to create a more innovative Canada. 
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Accelerate Data Scientist
+    start: Sept 2020
+    end: April 2021
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Identified and simulated several common automotive assembly tasks that were deemed necessary for digital workstation simulation.
+    - Analyzed kinematic motion of a diverse range of individuals to create predictive models for digital human modeling software
+    - Collaborated with major automotive industry partners such as Ford, General Motors and Stellantis (formerly Fiat Chrysler Automotive).
 
 - company:
     name: Intern Counting Company (ICC).
