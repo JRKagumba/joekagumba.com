@@ -8,44 +8,71 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Ergonomic Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Ford Motor Company.
+  url: "https://www.ford.ca/bronco/?gnav=eyebrow-brand-brnco"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+# resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: "I am a passinate data scientist professinal and biomechanical engineer. Currently my interests surround computational modeling of human movements through computer vision or sensory interventions. 
+I am also an Machine Learning Enthusiast, I often post about papers or projects I have found interesting on my [LinkedIn](https://www.linkedin.com/in/joe-kagumba/)
+or [Twitter](https://twitter.com/JoeKagumba). When I am not working on projects, I am listening or reading about philosophy, going to comedy shows, doing something active or writing about my thoughts."
+
+
+# 'I am a passionate software engineer with x years of working experience. 
+# I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. 
+# My tools help people to deploy their workloads in Kubernetes. 
+# Sometimes, I work on some fun projects such as writing a theme, etc.'
+
+# "An organized, enthusiastic data science professional and technical engineer with a career devoted to finding solutions and process
+# optimization. Strengths lie in working with decision-makers and multiple stakeholders from a variety of stakeholder groups to
+# define problems, brainstorm possible solutions and establish consensus on the appropriate path forward. Demonstrate a unique
+# balance of programmatic and process-oriented approaches to solve problems and drive greater performance. Currently seeking
+# software engineering and data analyst opportunities in the tech start-up, e-commerce, or product marketing fields"
+
+# "I am a postdoctoral scholar at Stanford University in the Neuromuscular Biomechanics Laboratory, 
+# where I also received my PhD in Bioengineering. I'm passionate about measuring and motivating movement
+#  and increasing access to health care with digital technology. My research bridges the fields of biomechanics, 
+#  psychology, and computer science to understand not just how we move, but how we think about movement 
+#  and our motivation for being physically active. I value human-centered design and a holistic, 
+#  lifestyle-focused approach to engineering and medicine. I enjoy cultivating creativity and humor in work 
+#  and life, sharing ideas, and communicating science, particularly on my podcast, Biomechanics On Our Minds 
+#  (my mom says it's her favorite biomechanics podcast)."
+
+# "Calvin is broadly interested in sensing human motion and understanding how humans make sense of their own motion through a 
+# combination of wearable technologies and stochastic modeling approaches."
+
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "kagumbaml@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/JRKagumba"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/joe-kagumba/"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://twitter.com/JoeKagumba"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "#"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
