@@ -7,8 +7,9 @@ menu:
     name: Introduction
     identifier: introduction
     weight: 10
-tags: ["Basic", "Multi-lingual"]
-categories: ["Basic"]
+hero: welcome_01.png
+tags: ["Introduction"]
+categories: ["Introduction"]
 ---
 
 Hi! I'm Joe, welcome to my blog. I'm an Ergonomic Engineer (currently working at Ford Motor Company) and all-around nerd. 
@@ -17,6 +18,6 @@ I started this blog for two purposes: to write about what I'm learning in my own
 
 In all honesty, this is more of a journal than a blog, but I've chosen to make this journal public in the case of a) the content can help someone else and b) someone disagrees and we can have a discussion. I'm a big believer in open, frank critique of ideas and I believe the best way to grow an idea is to attack it. Don't take what I write on here for granted - ask yourself if what I'm talking about makes sense to you. If it doesn't, speak up! Let's have a discussion.
 
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
+---
+
+
