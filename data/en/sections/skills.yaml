@@ -11,10 +11,9 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: "Used in most projects for analytics, "
+  summary: "Go-to language for most projects. Used for analytics, protoyping and general all-round work flow."
 
 - name: Javascript
   logo: /images/sections/skills/javascript.svg

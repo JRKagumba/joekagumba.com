@@ -21,44 +21,60 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
+#Academic
+- name: Master's Thesis
+  logo: /images/sections/projects/thesis.png
+  role: Student
+  timeline: "Sept 2019 - Apr 2021"
+  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.proquest.com/openview/0aa707187ddd21fcf5a9ea1b847cb278/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Evaluating kinematic movement variability between individuals of varying percentile height groups
+  tags: ["academic", "biomechanics"]
+
+
+#Hobby
+- name: Random Password Generator
+  logo: /images/sections/projects/password.png
   role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  timeline: "Spring 2022"
+  repo: https://github.com/JRKagumba/password-generator
+  url: https://random-password-generator.io/
+  summary: A simple password generating web app with helpful memory mnemonics 
+  tags: ["hobby", "web-dev"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: Vehicle Pricing Predictor
+  logo: /images/sections/projects/vehicle-pricing.png
+  role: Developer
+  timeline: "Winter 2022"
+  repo: https://github.com/JRKagumba/vehicle_price_predictor
+  url: http://vehicle-pricing-predictor.herokuapp.com/
+  summary: A simple web app that gives an estimate of a vehicle pricing based on key features
+  tags: ["hobby", "machine-learning"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: Running Shoe Image Classifier
+  logo: /images/sections/projects/running_shoes.png
+  role: Developer
+  timeline: "Summer 2022"
+  # repo: https://github.com/JRKagumba/vehicle_price_predictor
+  url: https://runningshoe-image-classifier.herokuapp.com/
+  summary: A simple web app that classifies shoe images based on the 14 most popular running shoe brands
+  tags: ["hobby", "machine-learning"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+# #Professional
+# - name: Nocode
+#   logo: /images/sections/projects/no-code.png
+#   role: Nothing
+#   timeline: "Oct 2019 - Dec 2019"
+#   repo: https://github.com/kelseyhightower/nocode
+#   #url: ""
+#   summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+#   tags: ["professional", "machine-learning"]
+
+# - name: Toha
+#   logo: /images/sections/projects/toha.png
+#   role: Owner
+#   timeline: "Jun 2019 - Present"
+#   repo: https://github.com/hossainemruz/toha
+#   summary: A Hugo theme for personal portfolio.
+#   tags: ["professional", "machine-learning"]
