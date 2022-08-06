@@ -1,14 +1,14 @@
 ---
-title: "Rich Content"
+title: "PP-02"
 date: 2020-06-08T08:06:25+06:00
 description: Sample post with multiple images, embedded video ect.
 menu:
   sidebar:
-    name: Rich Content
-    identifier: rich-content
-    parent: sub-category
-    weight: 10
-hero: images/forest.jpg
+    name: PP-02
+    identifier: PP-02
+    parent: Academic Articles
+    weight: 302
+hero: machine-learning.png
 tags: ["Markdown","Content Organization","Multi-lingual"]
 categories: ["Basic"]
 ---
