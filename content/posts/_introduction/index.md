@@ -5,7 +5,7 @@ description: Introduction to Sample Post
 menu:
   sidebar:
     name: Introduction
-    identifier: introduction
+    identifier: _introduction
     weight: 10
 hero: welcome_01.png
 tags: ["Introduction"]

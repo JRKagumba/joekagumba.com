@@ -5,8 +5,8 @@ description: Shortcodes sample
 menu:
   sidebar:
     name: Shortcodes Sample
-    identifier: shortcodes
-    weight: 40
+    identifier: zzz-shortcodes
+    weight: 400
 hero: boat.jpg
 mermaid: true
 ---

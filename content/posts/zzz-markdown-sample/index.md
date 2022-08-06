@@ -5,8 +5,8 @@ description: Markdown rendering samples
 menu:
   sidebar:
     name: Markdown Sample
-    identifier: markdown
-    weight: 30
+    identifier: zzz-markdown-sample
+    weight: 300
 author:
   name: Jessica Jonas
   image: /images/author/jessica.png

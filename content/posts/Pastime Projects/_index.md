@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: Category
     identifier: category
-    weight: 30
+    weight: 40
 ---

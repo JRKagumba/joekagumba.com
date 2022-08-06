@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: Study Sessions
     identifier: Study Sessions
-    weight: 400
+    weight: 50
 ---
