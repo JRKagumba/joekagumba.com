@@ -1,14 +1,14 @@
 ---
-title: "AA-01"
+title: "Tools and Torque"
 date: 2020-06-08T08:06:25+06:00
 description: Sample post with multiple images, embedded video ect.
 menu:
   sidebar:
-    name: AA-01
+    name: Tools and Torque
     identifier: AA-01
     parent: Academic Articles
     weight: 101
-hero: welcome_900.png
+hero: power_tools.png
 tags: ["Markdown","Content Organization","Multi-lingual"]
 categories: ["Basic"]
 ---
