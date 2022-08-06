@@ -14,37 +14,33 @@ categories: ["Basic"]
 ---
 
 <div align="left">
-Lately drivers have been losing some sleep.<br>
-The cost of gas has been quite steep.<p>
+The following is a quick overview;<br>
+Of a tiny project I wanted to do.<p>
 
-As rising prices are in our forecast.<br>
-I wanted to see how they were in the past.<p>
+Some plots and analysis done by me.<br>
+Curiosity is the fuel that made them be.<p>
 
-I explore some data from the 90s to now.<br>
-To try to gain some insights somehow.<p>
+'96 was the data's publication premiere.<br>
+Since then they've been published every year.<p>
 
-I go through some plots that I created,<br>
-A few of them even animated.<p>
+I looked at some university employees,<br>
+And some of their highest salaries.<p>
 
-Interested in the plots displayed?<br>
-Click here to see how they were made.<p>
+The following had no serious intent.<br>
+Now, on to the project! Enjoy the content.<p>
 
-You’ve read my intro. I’ve planted the seed.<br>
-Now let’s get started. Enjoy the read!<p>
 
 ---
 
 
-The main purpose of this article is to go through different methods of exploring time series data. The actual analysis will be very informal. All fuel prices were retrieved from [Statistics Canada](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000101). All monetary values are in Canadian dollars and have been adjusted to their present day (2022) dollar value.
-
-Most plots were created using the [Plotly API](https://plotly.com/python-api-reference/) . Plotly allows users to create dynamic interactive plots and I especially like their animation feature when exploring time series data (I was not paid to write that and I have no affiliation with plotly at all). For the most ideal view of the plots please click on the bolded link at the bottom left corner of each display.
+In 1996 the Ontario government began publicly publishing salary information of all public sector emplyees who made over $100000 annually. The reasoning for publishing this information is to "ensure accountability to taxpayers".  The dataset is available [here](https://www.ontario.ca/public-sector-salary-disclosure/2021/all-sectors-and-seconded-employees/). 
 
 
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~jrkagumba/35.embed" height="525" width="100%"></iframe>
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~jrkagumba/41.embed" height="525" width="100%"></iframe>
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~jrkagumba/45.embed" height="525" width="100%"></iframe>
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~jrkagumba/51.embed" height="525" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~jrkagumba/45.embed" height="700" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~jrkagumba/51.embed" height="700" width="100%"></iframe>
 
 
 
