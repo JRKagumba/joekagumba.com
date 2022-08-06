@@ -18,52 +18,41 @@ The following is an informal explanation of my thesis study. For a more formal r
 
 ---
 
+## The Problem:
+In industry and academia practitioners who work with any human movement data often rely on some sort of digital human modeling software in order to do any kind of analysis or simulation.  Various studies had shown that this software had been inadequate and could be improved upon in various ways.  
+Specifically for engineers in the automotive manufacturing industry, the software was limited to analyzing only a single static posture and maybe a few rudimentary dynamic ones. This restricted their ability to fully assess the injury risk associated with complex aspects of manual assembly operations.
 
-{{< mermaid align="left" >}}
-graph LR;
-    A([Participant]) -->|Tool Type| B[[Bosch]]
-    A([Participant]) -->|Tool Type| C[[Cleco]]
-    B -->|Joint Type| D[Hard]
-    B -->|Joint Type| E(Soft)
-    D -->|Target Torque| F{30 Nm}
-    D -->|Target Torque| G{55 Nm}
-    D -->|Target Torque| H{75 Nm}
-    E -->|Target Torque| I{30 Nm}
-    E -->|Target Torque| J{55 Nm}
-    E -->|Target Torque| K{75 Nm}
-    C -->|Joint Type| L[Hard]
-    C -->|Joint Type| M(Soft)
-    L -->|Target Torque| N{30 Nm}
-    L -->|Target Torque| O{55 Nm}
-    L -->|Target Torque| P{75 Nm}
-    M -->|Target Torque| Q{30 Nm}
-    M -->|Target Torque| R{55 Nm}
-    M -->|Target Torque| S{75 Nm}
 
-    style A fill:#808080,stroke:#333,stroke-width:4px
+## The Solution:
+We wanted to improve the process of creating full workstation simulations through digital human modeling. The study was designed to understand motion behavior with the intention of modeling the motions specific to specific automotive manufacturing tasks in the future. This would help industry engineers from having to manually create human simulations.  Also, it would improve simulation accuracy as kinematic data could be collected on those performing actual tasks within the work environment.
 
-<!-- Bosch vs Cleco -->
-    style B fill:#005aff,stroke:#333,stroke-width:2px
-    style C fill:#ffa500,stroke:#333,stroke-width:2px
 
-<!-- Hard vs Soft -->
-    style D fill:#00b41a,stroke:#333,stroke-width:2px
-    style E fill:#b4009a,stroke:#333,stroke-width:2px
-    style L fill:#00b41a,stroke:#333,stroke-width:2px
-    style M fill:#b4009a,stroke:#333,stroke-width:2px
+### Why do we care about movement variability?
 
-<!-- 30Nm, 55Nm, 75Nm -->
-    style F fill:#ff664d,stroke:#333,stroke-width:2px
-    style G fill:#ff2500,stroke:#333,stroke-width:2px
-    style H fill:#b41a00,stroke:#333,stroke-width:2px
-    style I fill:#ff664d,stroke:#333,stroke-width:2px
-    style J fill:#ff2500,stroke:#333,stroke-width:2px
-    style K fill:#b41a00,stroke:#333,stroke-width:2px
-    style N fill:#ff664d,stroke:#333,stroke-width:2px
-    style O fill:#ff2500,stroke:#333,stroke-width:2px
-    style P fill:#b41a00,stroke:#333,stroke-width:2px
-    style Q fill:#ff664d,stroke:#333,stroke-width:2px
-    style R fill:#ff2500,stroke:#333,stroke-width:2px
-    style S fill:#b41a00,stroke:#333,stroke-width:2px
-{{< /mermaid >}}
+Typically in human movement, there are normal variations that occur within a (healthy) individual during motor performance across multiple repetitions of a task and it is nearly impossible for an individual to perform two identical actions of the same task. It's been describe by various researchers as "repetition without repetition".  
+
+As individual exhibits some sort of natural variation within their movement that is unique to them, this can be thought of as a person's natural variability profile.  Once we have someone's natural variability profile, we can then compare and contrast between individuals and maybe even come up with some aggregate explanations for different groups. More broadly, this could help us to understand the rules of motion that humans use to base their behaviors during specific tasks.
+
+
+### What is time series analysis?
+
+Other work in the past has reduced available time series data down to a single 0 dimensional variable that would describe the dataset as a whole (i.e local max, local min, area under curve…etc). The problems with this approach is that it reduces down data to something that may not even describe what you initially intended to. 
+
+In order for us to do any robust analysis of movement, we needed to collect data and extract a meaningful summary of continuous movement. That is pretty much what time series data is…just an observation with a time component. In the case of my thesis, the observation was joint angle over a series of time points.
+
+
+
+## Study Design 
+
+### How did we setup the study?
+
+We decided compare the movement of individuals of different percentile height groups. We defined percentile height groups from the ***NHANES 2011-2014*** (the most recently available height dataset at the time) dataset which we thought would be a decent approximation of North American height distributions. The following image demonstrates the various male and female height percentile distributions:
+ *** Add in charts….if charts don't work, add in distribution plots ***
+
+Twenty participants completed seven simulated automotive assembly tasks commonly found in industry. The 20 participants were evenly distributed into 1 of 4 groups based on their height. So (7 Tasks × 7 Joints ) = 49 levels of analysis. It should be noted that we didn't take into account gender, only height distribution. 
+
+
+### What did we find?
+
+Well based on the results, every group in the study performed each task with a unique multi-joint coordination pattern. Simply put, not two groups shared an identical set of joint angle profiles. Well it's actually more complicated than that, but if you want the complicated answer checkout my thesis publication ***here***.  Generally, we did find that the closer in height groups were, the more similar their joint coordination profiles. 
 
