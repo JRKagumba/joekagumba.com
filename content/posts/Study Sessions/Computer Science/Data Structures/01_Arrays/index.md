@@ -10,7 +10,7 @@ menu:
     weight: 02
 tags: ["Study", "Data Structures", "Arrays"]
 categories: ["Study"]
-hero: canada_gas.png
+hero: arrays.png
 ---
 
 
