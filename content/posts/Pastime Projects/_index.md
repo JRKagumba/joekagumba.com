@@ -1,8 +1,8 @@
 ---
-title: Top Category Sample
+title: Pastime Projects
 menu:
   sidebar:
-    name: Category
-    identifier: category
+    name: Pastime Projects
+    identifier: Pastime Projects
     weight: 300
 ---

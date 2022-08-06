@@ -1,8 +1,8 @@
 ---
-title: Top Category Sample
+title: Ballads to Being
 menu:
   sidebar:
-    name: Category
-    identifier: category
+    name: Ballads to Being
+    identifier: Ballads to Being
     weight: 200
 ---
