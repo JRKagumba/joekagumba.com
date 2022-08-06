@@ -22,16 +22,16 @@ In all honesty, this is more of a journal than a blog, but I've chosen to make t
 
 My posts are organized generally in to 4 sections as follows:
 
-#### Academic Articles
+Academic Articles
   - Publications I've found interesting or brief articles about projects that I did while in school.
 
-#### Ballads to Being
+Ballads to Being
   - Some musings about life and general thoughts.
 
-#### Pastime Projects
+Pastime Projects
   - Writing about projects I'm working on or have worked on usually to try to build on a specific skill.
 
-#### Study Sessions
+Study Sessions
   - General organized/unorganized notes about different topics I'm learning or have learned.
 
 ---
