@@ -3,7 +3,7 @@ name: "Joe Kagumba"
 nickname: "Joe"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/joe.png"
+image: "images/author/joe_closeup.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "kagumbaml@gmail.com"
