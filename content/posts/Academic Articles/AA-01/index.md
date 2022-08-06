@@ -8,7 +8,7 @@ menu:
     identifier: AA-01
     parent: Academic Articles
     weight: 101
-hero: images/machine-learning.png
+hero: machine-learning.png
 tags: ["Markdown","Content Organization","Multi-lingual"]
 categories: ["Basic"]
 ---
