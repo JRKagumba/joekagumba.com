@@ -7,7 +7,7 @@ menu:
     name: Arrays
     identifier: 01_Arrays
     parent: Data Structures
-    weight: 01
+    weight: 02
 tags: ["Study", "Data Structures", "Arrays"]
 categories: ["Study"]
 hero: canada_gas.png

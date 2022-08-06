@@ -7,7 +7,7 @@ menu:
     name: Complexity and Big O
     identifier: 00_Complexity_and_Big_O
     parent: Data Structures
-    weight: 00
+    weight: 01
 tags: ["Study", "Data Structures", "Complexity", "Big O"]
 categories: ["Study"]
 hero: canada_gas.png
