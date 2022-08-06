@@ -11,6 +11,7 @@ menu:
 hero: modeling_movement.png
 tags: ["Markdown","Content Organization","Multi-lingual"]
 categories: ["Basic"]
+mermaid: true
 ---
 
 The following is an informal explanation of my thesis study. For a more formal reading, [here](https://www.proquest.com/openview/0aa707187ddd21fcf5a9ea1b847cb278/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y) is a link to the published version. This written piece will cover what the study was about, the study design, why it may be important and future research directions. 

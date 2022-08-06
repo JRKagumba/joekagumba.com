@@ -11,6 +11,7 @@ menu:
 hero: power_tools.png
 tags: ["Markdown","Content Organization","Multi-lingual"]
 categories: ["Basic"]
+mermaid: true
 ---
 
 The purpose of this piece is to provide an informal explanation of this study as well as it's implications to industry and potential future research directions. Since the study was privately funded, much of the data and results cannot be presented publicly.  However, I will be examining the insights that I took away while conducting this study.
