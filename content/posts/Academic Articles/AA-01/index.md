@@ -1,14 +1,14 @@
 ---
-title: "Rich Content"
+title: "AA-01"
 date: 2020-06-08T08:06:25+06:00
 description: Sample post with multiple images, embedded video ect.
 menu:
   sidebar:
-    name: Rich Content
-    identifier: rich-content
-    parent: sub-category
-    weight: 10
-hero: images/forest.jpg
+    name: AA-01
+    identifier: AA-01
+    parent: Academic Articles
+    weight: 101
+hero: machine-learning.png
 tags: ["Markdown","Content Organization","Multi-lingual"]
 categories: ["Basic"]
 ---
