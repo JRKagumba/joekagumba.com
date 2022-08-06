@@ -10,6 +10,6 @@ menu:
     weight: 05
 tags: ["Study", "Data Structures", "Stacks", "Queues"]
 categories: ["Study"]
-hero: canada_gas.png
+hero: stacks_and_queues.png
 ---
 
