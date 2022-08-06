@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: Computer Science
     identifier: Computer Science
-    weight: 420
+    weight: 12000
 ---

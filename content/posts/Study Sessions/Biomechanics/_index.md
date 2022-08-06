@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: Biomechanics
     identifier: Biomechanics
-    weight: 420
+    weight: 11000
 ---
