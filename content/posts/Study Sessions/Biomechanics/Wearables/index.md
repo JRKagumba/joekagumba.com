@@ -1,12 +1,12 @@
 ---
-title: "Pricey Professors"
+title: "Wearables"
 date: 2022-04-23T08:06:25+06:00
 description: An brief analysis of Onatrio Professor Salaries
 menu:
   sidebar:
-    name: Pricey Professors
-    identifier: 302
-    parent: Pastime Projects
+    name: Wearables
+    identifier: Wearables
+    parent: Biomechanics
     weight: 302
 tags: ["Hobby", "Time-Series"]
 categories: ["Hobby"]
