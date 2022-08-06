@@ -1,10 +1,10 @@
 ---
-title: "BB-02"
+title: "The Death of Objective Truth"
 date: 2020-06-08T08:06:25+06:00
 description: Sample post with multiple images, embedded video ect.
 menu:
   sidebar:
-    name: BB-02
+    name: The Death of Objective Truth
     identifier: BB-02
     parent: Ballads to Being
     weight: 202

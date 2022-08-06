@@ -1,10 +1,10 @@
 ---
-title: "BB-01"
+title: "There's nothing like the first time!"
 date: 2020-06-08T08:06:25+06:00
 description: Sample post with multiple images, embedded video ect.
 menu:
   sidebar:
-    name: BB-01
+    name: There's nothing like the first time!
     identifier: BB-01
     parent: Ballads to Being
     weight: 201
