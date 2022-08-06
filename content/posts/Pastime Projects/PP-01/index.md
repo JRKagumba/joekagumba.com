@@ -83,8 +83,9 @@ This is probably one of the most interesting and unique ways to display time ser
 
 Each of these plots could be significantly expanded upon to provide further reasoning and clarity. If there’s any you’d like to discuss, hear more about, or disagree with let me know in the comments. The transformed data used to create these plots is available here.
 
+
 #### References
-[1] Statistics Canada - Monthly Prices for Gasoline by Geography
-[2] Statistics Canada - Population and Demography Statistics
-[3] Plotly API - Python API reference for Plotly
+[1] Statistics Canada - Monthly Prices for Gasoline by Geography<br>
+[2] Statistics Canada - Population and Demography Statistics<br>
+[3] Plotly API - Python API reference for Plotly<br>
 [4] Flourish - Flourish Studio
