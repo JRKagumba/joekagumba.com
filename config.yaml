@@ -1,7 +1,7 @@
 baseURL: https://hugo-toha.github.io
 
 languageCode: en-us
-title: "Joe's Blog"
+title: "Joe's Portfolio and Blog"
 theme: "toha"
 
 # Manage languages
