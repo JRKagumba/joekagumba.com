@@ -8,7 +8,7 @@ menu:
     identifier: PP-01
     parent: Pastime Projects
     weight: 301
-hero: machine-learning.png
+hero: canada_gas.png
 tags: ["Markdown","Content Organization","Multi-lingual"]
 categories: ["Basic"]
 ---
