@@ -8,35 +8,22 @@ menu:
     identifier: BB-02
     parent: Ballads to Being
     weight: 202
-hero: machine-learning.png
+hero: second_post.png
 tags: ["Markdown","Content Organization","Multi-lingual"]
 categories: ["Basic"]
 ---
 
-This sample post tests the followings:
+<p>Wisdom requires a flexible mind.<br>
+How should we interpret the facts that we find?
 
-- Category, sub-category nesting in the sidebar.
-- Hero image and other images are in `images` folder inside this post directory.
-- Different media rendering like image, tweet, YouTube video, Vimeo video etc.
+<p>Adjusted understanding, for us to conform.<br>
+Tribal truth is now the new norm.<p>
 
-### Image Sample
+<p>Imposing opinions on our acts.<br>
+Societal movements from shaky facts.<p>
 
-{{< img src="/posts/category/sub-category/rich-content/images/forest.jpg" align="center" title="Forest">}}
+<p>Regardless of what we choose to see.<br>
+Essential we find a place to agree.<p>
 
-{{< vs >}}
-
-### Tweet Sample
-
-{{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
-
-{{< vs >}}
-
-### YouTube Video Sample
-
-{{< youtube ZJthWmvUzzc >}}
-
-{{< vs >}}
-
-### Vimeo Video Sample
-
-{{< vimeo 48912912 >}}
+<p>A question we must now define?<br>
+Look at the first letter of every line.<p>

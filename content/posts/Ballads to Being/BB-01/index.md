@@ -8,35 +8,28 @@ menu:
     identifier: BB-01
     parent: Ballads to Being
     weight: 201
-hero: machine-learning.png
+hero: first_post.png
 tags: ["Markdown","Content Organization","Multi-lingual"]
 categories: ["Basic"]
 ---
 
-This sample post tests the followings:
+<p>I’ve been nervous to take on something like this.<br>
+Not knowing if my work will hit or miss.<p>
 
-- Category, sub-category nesting in the sidebar.
-- Hero image and other images are in `images` folder inside this post directory.
-- Different media rendering like image, tweet, YouTube video, Vimeo video etc.
+<p>Writing in public is a big step for me.<br>
+Putting out something for the world to see.<p>
 
-### Image Sample
+<p>Striving for excellence, as I should.<br>
+But perfection is the enemy of good.<p>
 
-{{< img src="/posts/category/sub-category/rich-content/images/forest.jpg" align="center" title="Forest">}}
+<p>Had to start with something, no need to impress.<br>
+Organized my thoughts to a legible mess.<p>
 
-{{< vs >}}
+<p>At first, I didn’t know what to write about.<br>
+I suppose that I managed to figure it out.<p>
 
-### Tweet Sample
+<p>I’ve always been a fan of writing that is clever.<br>
+Composing it now is a tricky endeavor.<p>
 
-{{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
-
-{{< vs >}}
-
-### YouTube Video Sample
-
-{{< youtube ZJthWmvUzzc >}}
-
-{{< vs >}}
-
-### Vimeo Video Sample
-
-{{< vimeo 48912912 >}}
+<p>Here we are now, this piece is done.<br>
+However, the writing has just begun<p>
