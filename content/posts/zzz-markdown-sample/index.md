@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: Markdown Sample
     identifier: zzz-markdown-sample
-    weight: 3000
+    weight: 600000
 author:
   name: Jessica Jonas
   image: /images/author/jessica.png

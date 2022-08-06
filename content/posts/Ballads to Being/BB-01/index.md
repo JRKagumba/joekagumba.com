@@ -1,13 +1,13 @@
 ---
-title: "BB-02"
+title: "BB-01"
 date: 2020-06-08T08:06:25+06:00
 description: Sample post with multiple images, embedded video ect.
 menu:
   sidebar:
-    name: BB-02
-    identifier: BB-02
-    parent: Academic Articles
-    weight: 202
+    name: BB-01
+    identifier: BB-01
+    parent: Ballads to Being
+    weight: 201
 hero: machine-learning.png
 tags: ["Markdown","Content Organization","Multi-lingual"]
 categories: ["Basic"]

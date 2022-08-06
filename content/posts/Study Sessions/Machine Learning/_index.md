@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: Machine Learning
     identifier: Machine Learning
-    weight: 430
+    weight: 13000
 ---

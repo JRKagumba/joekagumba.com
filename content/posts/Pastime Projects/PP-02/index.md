@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: PP-02
     identifier: PP-02
-    parent: Academic Articles
+    parent: Pastime Projects
     weight: 302
 hero: machine-learning.png
 tags: ["Markdown","Content Organization","Multi-lingual"]

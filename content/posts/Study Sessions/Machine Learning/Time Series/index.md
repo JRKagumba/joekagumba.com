@@ -5,9 +5,9 @@ description: Time Series analysis methods
 menu:
   sidebar:
     name: Time Series
-    identifier: 502
+    identifier: Time Series
     parent: Machine Learning
-    weight: 502
+    weight: 1301
 tags: ["Study", "Time-Series"]
 categories: ["Study"]
 hero: time_series.png

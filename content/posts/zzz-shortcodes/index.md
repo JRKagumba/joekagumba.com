@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: Shortcodes Sample
     identifier: zzz-shortcodes
-    weight: 4000
+    weight: 600001
 hero: boat.jpg
 mermaid: true
 ---
