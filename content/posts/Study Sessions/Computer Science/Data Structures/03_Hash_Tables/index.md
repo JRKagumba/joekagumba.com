@@ -1,5 +1,5 @@
 ---
-title: "Canada's Gas Problem"
+title: "Linked Lists"
 date: 2022-03-08T08:06:25+06:00
 description: An brief analysis of Canadian Gas prices through the years
 menu:
