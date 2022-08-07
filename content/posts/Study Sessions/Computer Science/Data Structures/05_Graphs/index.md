@@ -10,6 +10,6 @@ menu:
     weight: 06
 tags: ["Study", "Data Structures", "Graphs"]
 categories: ["Study"]
-hero: canada_gas.png
+hero: graphs.png
 ---
 

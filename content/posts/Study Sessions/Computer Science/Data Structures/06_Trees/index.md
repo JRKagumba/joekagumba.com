@@ -10,6 +10,6 @@ menu:
     weight: 07
 tags: ["Study", "Data Structures", "Trees"]
 categories: ["Study"]
-hero: canada_gas.png
+hero: trees.png
 ---
 

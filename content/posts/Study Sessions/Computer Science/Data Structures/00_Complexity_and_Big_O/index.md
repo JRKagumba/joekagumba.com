@@ -10,6 +10,6 @@ menu:
     weight: 01
 tags: ["Study", "Data Structures", "Complexity", "Big O"]
 categories: ["Study"]
-hero: canada_gas.png
+hero: complexity_and_big_o.png
 ---
 

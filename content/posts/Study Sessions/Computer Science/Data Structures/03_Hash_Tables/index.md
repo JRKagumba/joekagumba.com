@@ -10,6 +10,6 @@ menu:
     weight: 04
 tags: ["Study", "Data Structures", "Hash Tables"]
 categories: ["Study"]
-hero: canada_gas.png
+hero: hash_tables.png
 ---
 

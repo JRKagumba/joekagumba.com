@@ -10,6 +10,6 @@ menu:
     weight: 03
 tags: ["Study", "Data Structures", "Linked Lists"]
 categories: ["Study"]
-hero: canada_gas.png
+hero: linked_lists.png
 ---
 
